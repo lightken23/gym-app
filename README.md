@@ -71,5 +71,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ###In case of error use this code 
 
-npm install --legacy-peer-deps
+`npm install --legacy-peer-deps`
 
